@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Glad You Are Here. 
 
-<!--
-**Akhan0010/Akhan0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hi! My name is Adam Khan, and this is a short bio about my background. Nice to meet you!
 
-Here are some ideas to get you started:
+- I'm currently pursuing my Bachelor's in Cybersecurity at NEIU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am learning Python and Java.
+
+- The first piece of technology I owned was an old PC running Windows 7.
+
+- My fields of interest are security and protecting people from digital threats.
+
+- If you would like to contact me, you can reach me at: Adamk1618@gmail.com
